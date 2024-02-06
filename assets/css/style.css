@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    margin: 100px;
+    background-size: cover;
+}
+h1 {
+    color:purple;
+}
+label {
+    color:#B24BB2;
+    font-size: 25px;
+}
+.container {
+    width: 50%;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: url("../img/bg.jpeg");
+    background-size: cover;
+    color:#ccc;
+}
+button {
+    width: 8%;
+    color:darkred;
+    background-color:hotpink;
+    font-size: 20px;
+}
+
+
